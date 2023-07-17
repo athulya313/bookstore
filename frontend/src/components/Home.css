@@ -1,0 +1,50 @@
+
+.main{
+    margin-top: 10px;
+  display: flex;
+  
+ justify-content: center;
+}
+.bookmain{
+   text-align: center;
+   padding-right: 30px;
+   font-size: 80px;
+   color: #116466;
+   
+}
+.img{
+    width: 500px;
+    height: 500px;
+}
+.text{
+    color: #116466; 
+    text-align: center;
+   
+}
+.btn{
+    background-color:#116466 ;
+    color: white;
+    border: none;
+  padding: 6px;
+  text-decoration: none;
+ 
+
+}
+.mm {
+  display: flex;
+  align-items: center;
+  gap: 100px;
+}
+.txt{
+  text-align: center; 
+}
+.btndiv{
+  width: 60%;;
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+  align-items: center;
+  margin-right: 200px;
+  margin-left: 250px;
+}
+
